@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 //имя класса оканчивает на суффикс -Test
 //все тесты лежат в папке /src/test, независимо от системы сборки
+@TestInstance(TestInstance.Lifecycle.PER_CLASS)
 class UserServiceTest {
 
     private UserService userService;
