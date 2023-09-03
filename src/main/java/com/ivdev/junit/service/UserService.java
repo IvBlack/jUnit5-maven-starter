@@ -1,9 +1,8 @@
 package com.ivdev.junit.service;
 
-import com.ivdev.junit.dto.User.User;
+import com.ivdev.junit.dto.User;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class UserService {

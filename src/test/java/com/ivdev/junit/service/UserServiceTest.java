@@ -1,6 +1,6 @@
 package com.ivdev.junit.service;
 
-import com.ivdev.junit.dto.User.User;
+import com.ivdev.junit.dto.User;
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
